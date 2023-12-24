@@ -17,25 +17,3 @@ variable AWS_REGION {
 variable "image" {
   default = "ami-0c1a7f89451184c8b"
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
